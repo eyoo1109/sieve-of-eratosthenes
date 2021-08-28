@@ -4,7 +4,7 @@ After cloning the git repository, please run:
 ## `mvn spring-boot:run`
 
 After this finishes, open a browser and go to:
-##`localhost:8080`
+## `localhost:8080`
 
 This will bring you to a simple page with a text field. Type in a valid integer and click the `Get primes` button.
 The result should show up on the page.
