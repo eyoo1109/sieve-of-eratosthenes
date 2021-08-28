@@ -1,13 +1,13 @@
 # Question 1
 
-After cloning the git repository, please run:
+After cloning the git repository, please navigate to the project directory (sieve-of-eratosthenes) in a terminal and run the following command:
 ### `mvn spring-boot:run`
 
 After this finishes, open a browser and go to:
 ### `localhost:8080`
 
 This will bring you to a simple page with a text field. Type in a valid integer and click the `Get primes` button.
-The result should show up on the page.
+The result will show up on the page.
 
 
 # Question 2
